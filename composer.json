@@ -1,0 +1,19 @@
+{
+    "name": "mateuszmesek-magento2/module-document-data-index-queue-api",
+    "description": "N/A",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MateuszMesek\\DocumentDataIndexQueueApi\\": "src"
+        }
+    }
+}
