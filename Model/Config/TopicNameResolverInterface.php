@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexQueueApi\Config;
+namespace MateuszMesek\DocumentDataIndexQueueApi\Model\Config;
 
 interface TopicNameResolverInterface
 {

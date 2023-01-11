@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexQueueApi;
+namespace MateuszMesek\DocumentDataIndexQueueApi\Model;
 
 use Traversable;
 
